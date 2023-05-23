@@ -1,7 +1,7 @@
 # RPS-Solver
 A solver for 3 degree of freedom revolute-prismatic-spherical (RPS) stabilization platform
 
-![DevCar](https://github.com/RPS-Solver/blob/main/resources/rps_3dof.png)
+![DevCar](https://github.com/reuben-thomas/RPS-Solver/blob/main/resources/rps_3dof.png)
 
 ### Approach 1
 1. Assume the centre of the top base is of fixed height and position
